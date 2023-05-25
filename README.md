@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Welcome to Odin Recipe 👋</h1>
 <p>
   <a href="https://twitter.com/Aswinth24" target="_blank">
@@ -23,3 +24,7 @@ Give a ⭐️ if this project helped you!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+# Recipe_WebPage
+It is Basic Webpage by created using HTML and CSS. It was fundamental project given by the Odin project course.
+>>>>>>> 6c86eb7a314312784ba79b0073345915486fb40b
